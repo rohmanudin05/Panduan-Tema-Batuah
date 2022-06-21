@@ -18,13 +18,12 @@
 
 ## 📖 PEDOMAN PENGGUNAAN TEMA
 
-	Pedoman pemasangan dan Update Tema Batuah OpenSID dapat dilihat di chanel Yotube (https://www.youtube.com/watch?v=s39ErHLCfM4).
+Pedoman pemasangan dan Update Tema Batuah OpenSID dapat dilihat di chanel Yotube (https://www.youtube.com/watch?v=s39ErHLCfM4).
 
-**Untuk mengaktifkan theme / tema Batuah, silahkan lakukan aktivasi dengan cara:**
+	Untuk mengaktifkan theme / tema Batuah, silahkan lakukan aktivasi dengan cara:
 	1. Lakukan pembayaran dan konfirmasi kepada Open Desa
 	2. Kirim domain OpenSID desa anda kepada Open Desa
 	3. Theme / Tema Batuah segera diaktifkan
-
 
 ## 🏷️ LOGO
 	Secara default, logo yang tampil adalah yang di setting dari admin OpenSID.
@@ -52,7 +51,7 @@
 
 
 ## 🔗 LINK TAMBAHAN
-**Cara aktifkan fitur Link Tambahan di halaman Home:**
+	Cara aktifkan fitur Link Tambahan di halaman Home:
 	1. Buka file : temabatuah/linkplus/link.json
 	2. Pada baris ke 2 ganti "aktif": false, menjadi "aktif": true,
 
