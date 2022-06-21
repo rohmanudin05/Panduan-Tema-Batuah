@@ -1,6 +1,6 @@
 <h1 align="center">Selamat Datang di Panduan Tema Batuah! 👋</h1>
 
-![readme-image](https://github.com/rohmanudin05/Rilis-v22.06-rev04/blob/master/images/batuahok.png?raw=true)
+![readme-image](https://github.com/rohmanudin05/Panduan-Tema-Batuah/blob/main/batuahok.png?raw=true)
 
 ### 🤔 Apa itu Tema batuah?
 
