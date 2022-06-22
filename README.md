@@ -149,8 +149,8 @@ Pedoman pemasangan dan Update Tema Batuah OpenSID dapat dilihat di chanel Yotube
 
 ## ©️ HAK CIPTA TEMA BATUAH.
 
-	Tema Batuah ini di desain dan di ciptakan oleh :
-**Mas @Rohman_Mukomuko https://github.com/rohmanudin05/**
+Tema Batuah ini di desain dan di ciptakan oleh :
+@Rohman_Mukomuko https://github.com/rohmanudin05/
 ## 📊 DEMO TEMA BATUAH
 
 Demo tema OpenSID Versi Umum dapat direview di (https://temabatuah.com)
