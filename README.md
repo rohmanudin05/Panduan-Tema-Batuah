@@ -153,4 +153,4 @@ Pedoman pemasangan dan Update Tema Batuah OpenSID dapat dilihat di chanel Yotube
 	**Mas @Rohman_Mukomuko https://github.com/rohmanudin05/**
 ## 📊 DEMO TEMA BATUAH
 
-	Demo tema OpenSID Versi Umum dapat direview di (https://temabatuah.com)
+Demo tema OpenSID Versi Umum dapat direview di (https://temabatuah.com)
